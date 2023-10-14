@@ -2,7 +2,7 @@
 
 **How to run the Project:**
 1. Clone this repo using 
-   - `git clone https://github.com/syedibrahim/Pharmacy-Management-System.git`
+   - `git clone https://github.com/kvmclgi/Pharmacy-DB-POC.git`
 2. Install Eclipse J2EE or any other IDE of your choice.
 3. Use WAMP or XAMPP or any server of your choice.
 4. First create the MySql database on WAMP server using the sql file in the repo
@@ -100,9 +100,7 @@ By using MySQL commands and its database this website Pharmacy management tends 
  <br>
 
 # CONCLUSIONS AND FUTURE SCOPE
-o	Detailed information gathering has to be done. Without that the purpose for using the software won’t be satisfied properly.<br>
-o	However, it can give good profits in the long run.<br>
-o	Implementing the software requires change in the business practices.<br>
+
 o	Efficient organization of all knowledge is the analysis company and easy analysis access and retrieval of information is possible.<br>
 o	In this project we can also include BAR CODE facility using the bar code reader, which will detect the expiry date and the other information about the related medicines.<br>
 o	Company using this software will always be able to plan in future and always be aware of their financial position in the market. <br>
